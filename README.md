@@ -1,5 +1,7 @@
 # KartentuerHacken (hack keycard door)
 
+> **Now part of [Kaan's QoL](https://github.com/Kaanori/spt-kaansqol)** – this module is included there (with your settings migrated automatically). This stand-alone version is no longer updated.
+
 Every locked keycard door (Labs, Reserve, Kiba …) gets a "Hacken" (hack) entry in its menu.
 After the hacking time the door opens, exactly as with the right card.
 
